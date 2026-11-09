@@ -1,0 +1,91 @@
+ABRAHAM ISAIAH
+Full-Stack Software Engineer
+
+Phone: +234 913 226 0101
+Email: abrahamisaiah129@gmail.com
+GitHub: https://github.com/abrahamisaiah129
+LinkedIn: https://linkedin.com/in/abraham-isaiah-066a18229
+
+PROFILE
+Full-Stack Software Engineer specializing in complex web and mobile applications.
+Core stack: JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB.
+An adaptive and curious fast learner who thrives in solo and collaborative Agile
+environments. I leverage AI-assisted engineering to optimize development workflows
+and shorten shipping times for large-scale software systems.
+
+EDUCATION
+FUTO, Nigeria | 2025
+B.Eng., Mechatronics Engineering, Second Class Honours
+
+Greenvalue Computer College | 2020
+Certificate, Full Stack Web Development
+
+Additional training: Udemy (Dr. Angela Yu), Cisco Networking Academy,
+MATLAB Onramp, Sololearn, and Grasshopper.
+
+TECHNICAL SKILLS
+Full-Stack & UX: Next.js, React.js, React Query, PHP, SPA, PWA, Responsive Design
+Cloud & Serverless: Vercel, Firebase (Auth, Firestore, Cloud Functions, Storage, FCM)
+Integrations & AI: Zoho CRM, Freshchat API/Webhook Sync, Zoho Chatbot, Zia AI,
+Paystack, Mapbox
+Methodology & Delivery: SDLC, Scrum/Sprint Reporting, Engineering Documentation, CI/CD
+
+EXPERIENCE
+Traxx | Founding Developer | Sep 2026 - Present
+Remote, Nigeria
+- Architected and built full-stack SaaS features for fleet management and delivery
+  tracking, driving a 35% increase in operational efficiency across 12+ client fleets.
+Tech stack: React Native, Next.js, Firebase, Mapbox, Paystack
+
+WayaLinks (WayaBank Ecosystem) | Contract Frontend Engineer | Feb 2026 - May 2026
+Remote, Nigeria
+- Served as sole frontend engineer on a 20-person team, shipping four production
+  fintech products in four months, reducing average page load times by 45%, and
+  supporting 50k+ active users.
+Tech stack: React, Vite, TypeScript, Tailwind CSS, Freshchat API, Zoho CRM
+
+DDSA | Senior Full Stack Developer & PM | Aug 2025 - Feb 2026
+Remote, Nigeria
+- Led a seven-person cross-functional team delivering full-stack engineering and
+  product scope, shipping a financial product MVP in 12 weeks with 99.8% uptime.
+Tech stack: Node.js, Express, React.js, MongoDB, Paystack, Zoho Chatbot, Zia AI
+
+Softcity Group | Junior Software Engineer & Operations Manager | Oct 2023 - Mar 2024
+On-site, Nigeria
+- Optimized full-stack web applications to reduce page loads by 40% and built an
+  internal payroll system serving 150+ staff with zero security breaches.
+Tech stack: PHP, JavaScript, MySQL, HTML5, CSS3
+
+Morerich Global | Junior Frontend Developer | Jan 2020 - Aug 2023
+On-site, Nigeria
+- Developed responsive UI components and integrated 15+ third-party REST APIs using
+  React.js and JavaScript, accelerating feature delivery velocity by 25%.
+Tech stack: React.js, JavaScript, HTML5, CSS3, REST APIs
+
+PROJECTS
+CreaNote - Note-taking application with rich text formatting and organization tools.
+Tools: React.js, Node.js, Express.js, MongoDB
+
+ISQDF - Web application for data management and query filtering.
+Tools: TypeScript, React.js, Next.js, Node.js
+
+Flier Templating Generator - Dynamic tool for customized promotional fliers and templates.
+Tools: JavaScript, HTML5, CSS3, React.js
+
+House of God Church - Church website and administrative dashboard for membership,
+records, and events.
+Tools: React.js, Node.js, MongoDB, Tailwind CSS
+
+Mima Official - Responsive web platform with integrated services.
+Tools: Next.js, React.js, Tailwind CSS
+
+Resilient API Gateway Shield - API security and rate-limiting gateway for microservices.
+Tools: Node.js, Express.js, Redis, Security Middleware
+
+Golf & Football Web App - Interactive sports platform with live scores, statistics,
+and game updates.
+Tools: React.js, Next.js, REST APIs, Tailwind CSS
+
+AWARDS & RECOGNITION
+- Best Intern (2024), Softcity Group: Facility Manager & Frontend Developer roles.
+- Open source contribution: CleonHR documentation and UI fixes.

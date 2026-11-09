@@ -1,23 +1,23 @@
+import type { Metadata } from "next";
+import Assistant from "@/components/Assistant";
+import ScrollEffects from "@/components/ScrollEffects";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-// toastify
-import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
 
-export default function RootLayout({ children }: LayoutProps<"/">) {
+export const metadata: Metadata = {
+  title: "Abraham Isaiah | Full-Stack Software Engineer",
+  description:
+    "Portfolio of Abraham Isaiah, a Full-Stack Software Engineer building web and mobile applications.",
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html>
-      <head>
-        <title>OCA</title>
-      </head>
+    <html lang="en">
       <body>
-        <ToastContainer />
-        <div className="flex min-h-screen flex-col">
-          <Header />
-          <main className="flex-1">{children}</main>
-          <Footer />
-        </div>
+        {children}
+        <Assistant />
+        <ScrollEffects />
       </body>
     </html>
   );
